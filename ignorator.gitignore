@@ -1,0 +1,19 @@
+# LabVIEW
+*.aliases
+*.lvlps
+*.lvlibp
+*.pdb
+
+# LabVIEW cache
+*.cache
+*.compiled
+*.df_cache
+*.ip_cache
+
+# Build outputs
+/builds/
+/dist/
+
+# OS
+Thumbs.db
+.DS_Store
